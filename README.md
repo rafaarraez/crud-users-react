@@ -1,3 +1,9 @@
+# CRUD React + NodeJs + Express + MySQL
+
+  - Una practica de React para completar con Node, Express y MySQL
+  - Una conexión a un front sencillo del proyecto para completar la practica de crud-api-node-mysql (https://github.com/rafaarraez/crud-api-node-mysql)
+  - PD: Algun dia mejorare el front y separaré en componentes (ahorita estoy cansado, i´m so sorry)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
